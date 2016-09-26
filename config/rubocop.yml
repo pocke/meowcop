@@ -22,6 +22,7 @@ Lint/UnusedBlockArgument:
   Enabled: false
 Lint/UnusedMethodArgument:
   Enabled: false
+
 Metrics/AbcSize:
   Enabled: false
 Metrics/BlockNesting:
@@ -40,8 +41,10 @@ Metrics/ParameterLists:
   Enabled: false
 Metrics/PerceivedComplexity:
   Enabled: false
+
 Performance/RedundantBlockCall:
   Enabled: false
+
 Rails/Delegate:
   Enabled: false
 Rails/Output:
@@ -56,6 +59,7 @@ Rails/RequestReferer:
   Enabled: false
 Rails/SafeNavigation:
   Enabled: false
+
 Style/AccessModifierIndentation:
   Enabled: false
 Style/AccessorMethodName:
